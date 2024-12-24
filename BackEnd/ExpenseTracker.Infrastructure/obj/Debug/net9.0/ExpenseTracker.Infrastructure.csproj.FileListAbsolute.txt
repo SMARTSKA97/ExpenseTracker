@@ -1,0 +1,16 @@
+C:\Users\Administrator\Documents\Workspace\ExpenseTracker\BackEnd\ExpenseTracker.Infrastructure\bin\Debug\net9.0\ExpenseTracker.Infrastructure.deps.json
+C:\Users\Administrator\Documents\Workspace\ExpenseTracker\BackEnd\ExpenseTracker.Infrastructure\bin\Debug\net9.0\ExpenseTracker.Infrastructure.dll
+C:\Users\Administrator\Documents\Workspace\ExpenseTracker\BackEnd\ExpenseTracker.Infrastructure\bin\Debug\net9.0\ExpenseTracker.Infrastructure.pdb
+C:\Users\Administrator\Documents\Workspace\ExpenseTracker\BackEnd\ExpenseTracker.Infrastructure\bin\Debug\net9.0\ExpenseTracker.Core.dll
+C:\Users\Administrator\Documents\Workspace\ExpenseTracker\BackEnd\ExpenseTracker.Infrastructure\bin\Debug\net9.0\ExpenseTracker.Core.pdb
+C:\Users\Administrator\Documents\Workspace\ExpenseTracker\BackEnd\ExpenseTracker.Infrastructure\obj\Debug\net9.0\ExpenseTracker.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\Workspace\ExpenseTracker\BackEnd\ExpenseTracker.Infrastructure\obj\Debug\net9.0\ExpenseTracker.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\Workspace\ExpenseTracker\BackEnd\ExpenseTracker.Infrastructure\obj\Debug\net9.0\ExpenseTracker.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\Workspace\ExpenseTracker\BackEnd\ExpenseTracker.Infrastructure\obj\Debug\net9.0\ExpenseTracker.Infrastructure.AssemblyInfo.cs
+C:\Users\Administrator\Documents\Workspace\ExpenseTracker\BackEnd\ExpenseTracker.Infrastructure\obj\Debug\net9.0\ExpenseTracker.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Workspace\ExpenseTracker\BackEnd\ExpenseTracker.Infrastructure\obj\Debug\net9.0\ExpenseTracker.Infrastructure.sourcelink.json
+C:\Users\Administrator\Documents\Workspace\ExpenseTracker\BackEnd\ExpenseTracker.Infrastructure\obj\Debug\net9.0\ExpenseT.546500FC.Up2Date
+C:\Users\Administrator\Documents\Workspace\ExpenseTracker\BackEnd\ExpenseTracker.Infrastructure\obj\Debug\net9.0\ExpenseTracker.Infrastructure.dll
+C:\Users\Administrator\Documents\Workspace\ExpenseTracker\BackEnd\ExpenseTracker.Infrastructure\obj\Debug\net9.0\refint\ExpenseTracker.Infrastructure.dll
+C:\Users\Administrator\Documents\Workspace\ExpenseTracker\BackEnd\ExpenseTracker.Infrastructure\obj\Debug\net9.0\ExpenseTracker.Infrastructure.pdb
+C:\Users\Administrator\Documents\Workspace\ExpenseTracker\BackEnd\ExpenseTracker.Infrastructure\obj\Debug\net9.0\ref\ExpenseTracker.Infrastructure.dll

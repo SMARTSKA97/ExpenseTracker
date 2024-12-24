@@ -1,0 +1,12 @@
+C:\Users\Administrator\Documents\Workspace\ExpenseTracker\BackEnd\ExpenseTracker.Core\bin\Debug\net9.0\ExpenseTracker.Core.deps.json
+C:\Users\Administrator\Documents\Workspace\ExpenseTracker\BackEnd\ExpenseTracker.Core\bin\Debug\net9.0\ExpenseTracker.Core.dll
+C:\Users\Administrator\Documents\Workspace\ExpenseTracker\BackEnd\ExpenseTracker.Core\bin\Debug\net9.0\ExpenseTracker.Core.pdb
+C:\Users\Administrator\Documents\Workspace\ExpenseTracker\BackEnd\ExpenseTracker.Core\obj\Debug\net9.0\ExpenseTracker.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\Workspace\ExpenseTracker\BackEnd\ExpenseTracker.Core\obj\Debug\net9.0\ExpenseTracker.Core.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\Workspace\ExpenseTracker\BackEnd\ExpenseTracker.Core\obj\Debug\net9.0\ExpenseTracker.Core.AssemblyInfo.cs
+C:\Users\Administrator\Documents\Workspace\ExpenseTracker\BackEnd\ExpenseTracker.Core\obj\Debug\net9.0\ExpenseTracker.Core.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Workspace\ExpenseTracker\BackEnd\ExpenseTracker.Core\obj\Debug\net9.0\ExpenseTracker.Core.sourcelink.json
+C:\Users\Administrator\Documents\Workspace\ExpenseTracker\BackEnd\ExpenseTracker.Core\obj\Debug\net9.0\ExpenseTracker.Core.dll
+C:\Users\Administrator\Documents\Workspace\ExpenseTracker\BackEnd\ExpenseTracker.Core\obj\Debug\net9.0\refint\ExpenseTracker.Core.dll
+C:\Users\Administrator\Documents\Workspace\ExpenseTracker\BackEnd\ExpenseTracker.Core\obj\Debug\net9.0\ExpenseTracker.Core.pdb
+C:\Users\Administrator\Documents\Workspace\ExpenseTracker\BackEnd\ExpenseTracker.Core\obj\Debug\net9.0\ref\ExpenseTracker.Core.dll
